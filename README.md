@@ -1,4 +1,4 @@
-# DeterminadordeEspessura
+# Determinador de Espessura
 
 O Determinador de espessuras é um programa desenvolvido pelo autor utilizando a linguagem C# para automatizaro processo de tratamento do espectro 
 necessário para o cálculo da espessura de um material revestido. O programa é capaz de manipular os espectros de saída do DppMCA, Geant4, MCNP e XRMC. 
