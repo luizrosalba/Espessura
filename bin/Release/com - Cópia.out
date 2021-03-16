@@ -1,8 +1,0 @@
-reset;
-clear;
-set term jpeg;
-set output "saida.jpg" 
-plot "a.out" w i  title 'Discrete counts';
-hold on;
-
-
