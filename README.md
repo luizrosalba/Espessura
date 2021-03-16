@@ -11,5 +11,7 @@ atribuído pelo Instituto Politécnico da Universidade do Estado do Rio de Janei
 Código referente à Tese apresentada, apresentada como requisito parcial para obtenção do título de Doutor, 
 ao Programa de Pós-Graduação em Modelagem Computacional do Instituto Politécnico, da Universidade do Estado do Rio de Janeiro.
 
-
 http://www.bdtd.uerj.br/tde_busca/arquivo.php?codArquivo=9944&PHPSESSID=u99c6595bljcnr141ku1269m06 
+
+![](./img/code.PNG)
+
