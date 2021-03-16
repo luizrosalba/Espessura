@@ -1,0 +1,1 @@
+reset;clear;set term jpeg;set xtics 0.1;set xrange [6:8];set yrange [0:300];set ytics 20;set output "saida.jpg" ;plot "C:\\Users\\max\\Google Drive\\artigo bolonha\\dados22junho\\FErro puro\\30en_cont.out" w l title 'Dados', 

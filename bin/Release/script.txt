@@ -1,0 +1,2 @@
+plot "func.out" w l   
+replot "nodos.out" w p

@@ -1,0 +1,1 @@
+reset;clear;set term jpeg;set xtics 0.5;set xrange [6.0:7.1];set yrange [0:212.3];set ytics 20;set output "saida.jpg" ;plot "C:\\Users\\neo\\Google Drive\\LuizRosalba pc na uerj\\Espessura\\Espessura\\bin\\Release\\dpmca.out" w l title 'Contagens'; 

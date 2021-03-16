@@ -1,0 +1,8 @@
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\bin\Release\Espessura.exe
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\bin\Release\Espessura.pdb
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Release\Espessura.Form1.resources
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Release\Espessura.Properties.Resources.resources
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Release\Espessura.csproj.GenerateResource.Cache
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Release\Espessura.exe
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Release\Espessura.pdb
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\bin\Release\XrayLib.NET.dll

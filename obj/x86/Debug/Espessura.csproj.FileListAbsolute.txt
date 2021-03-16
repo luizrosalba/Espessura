@@ -1,0 +1,21 @@
+C:\Users\max\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\bin\Debug\Espessura.exe
+C:\Users\max\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\bin\Debug\Espessura.pdb
+C:\Users\max\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\max\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\Espessura.Form1.resources
+C:\Users\max\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\Espessura.Properties.Resources.resources
+C:\Users\max\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\max\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\max\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\Espessura.exe
+C:\Users\max\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\Espessura.pdb
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\Espessura.exe
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\Espessura.pdb
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\bin\Debug\Espessura.exe
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\bin\Debug\Espessura.pdb
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\bin\Debug\XrayLib.NET.dll
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\Espessura.Form1.resources
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\Espessura.Material.resources
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\Espessura.Properties.Resources.resources
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\Espessura.csproj.GenerateResource.Cache
+C:\Users\LR\Google Drive\LuizRosalba pc na uerj\Espessura\Espessura\obj\x86\Debug\Espessura.csprojResolveAssemblyReference.cache
+C:\Espessura\obj\x86\Debug\Espessura.exe
+C:\Espessura\obj\x86\Debug\Espessura.pdb
